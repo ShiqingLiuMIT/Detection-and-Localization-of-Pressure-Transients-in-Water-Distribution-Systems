@@ -5,13 +5,14 @@ This repository includes the code and data that related to my thesis "Detection 
 
 Uploaded:
 
-  KY network data  
+  1. KY network data  
 
-  PTSNet simulation code  
+  2. PTSNet simulation code  
 
-  modified CUSUM code
+  3. modified CUSUM code
 
-  simulation result analysis code, which is used to find signals are detected or not
+  4. simulation result analysis code, which is used to find signals are detected or not
+
 
 Shiqing Liu
 3/27/2025
